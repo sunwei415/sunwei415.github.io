@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "背景介绍"
+title:  "写作背景介绍"
 date:   2016-12-03 10:09:22 +0800
 categories: 背景 目标
 ---
@@ -9,3 +9,5 @@ categories: 背景 目标
 传统的浏览器技术(HTML, JavaScript, CSS), 结合基于JavaScript Runtime的原生App开发技术（Appcelerator Titanium, Facebook React Native, Telerik NativeScript）, 为这种统一的多端开发提供了可能。
 
 小编在接下来的两周内, 选取NativeScript, 将通过学习、试验，对这种可能进行验证, 目标是一套代码通过不同的build脚本来生成iOS/Android/移动浏览器/微信公众号对应的部署文件（小程序后面再考虑）。
+
+本着"Write to understand"的目标, 将整个过程通过文字、图表、代码记录下来，期望达到多基本原理和最佳实践的扎实掌握。
