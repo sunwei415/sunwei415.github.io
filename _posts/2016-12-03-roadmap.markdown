@@ -1,0 +1,22 @@
+---
+layout: 'post'
+title: 'RoadMap'
+date: '2016-12-03 11:48:00 +0800'
+categories: Roadmap 计划 线路图
+---
+RoadMap:
+
+1. JavaScript 语法与运行机制总结
+1. CSS 语法与运行机制总结
+1. 高性能JavaScript编程注意事项总结
+1. 高性能HTML 5/CSS编程注意事项
+1. NativeScript demo
+1. NativeScript 运行机制分析、总结
+1. Angular 2 demo
+1. Angular 2 功能集合
+1. Angular 2 运行机制分析、总结
+1. Spike 功能集合定义: 登录, 图片上传, 列表显示
+1. 打包工具的选择、配置: webpack, gulp
+1. Spike 实现: Angular 2 + NativeScript + CSS + HTML
+1. Spike 代码重构, 性能优化, 统一打包脚本调用方式
+1. 安全: 模拟对微信、移动浏览器端、NativeScript/iOS、NativeScript/Android的攻击
