@@ -3,7 +3,7 @@ layout: post
 title:  "背景介绍"
 date:   2016-12-03 10:09:22 +0800
 categories: 背景 目标
------------------
+---
 
 目前开发一款新的App，有下面几种主要的运行载体: iOS, Android, 移动浏览器, 微信公众号，微信小程序。下面统称为端。执行多端开发时, 统一编程语言，共享代码是产品进行快速迭代的一个基础。
 传统的浏览器技术(HTML, JavaScript, CSS), 结合基于JavaScript Runtime的原生App开发技术（Appcelerator Titanium, Facebook React Native, Telerik NativeScript）, 为这种统一的多端开发提供了可能。
