@@ -10,4 +10,4 @@ categories: 背景 目标
 
 小编在接下来的两周内, 选取TypeScript/Angular 2/NativeScript/HTML/CSS的组合, 将通过学习、试验，对这种可能进行验证, 目标是一套代码通过不同的build脚本来生成iOS/Android/移动浏览器/微信公众号对应的部署文件（小程序后面再考虑）。
 
-本着"Write to understand"的目标, 将整个过程通过文字、图表、代码记录下来，期望达到多基本原理和最佳实践的扎实掌握。
+本着"Write to understand"的目标, 将整个过程通过文字、图表、代码记录下来，期望达到对基本原理和最佳实践的扎实掌握。
