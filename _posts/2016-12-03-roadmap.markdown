@@ -6,11 +6,11 @@ categories: Roadmap 计划 线路图
 ---
 RoadMap:
 
-1. JavaScript 语法与运行机制总结
+1. [x] JavaScript 语法与运行机制总结
 1. CSS 语法与运行机制总结
 1. 高性能JavaScript编程注意事项总结
 1. 高性能HTML 5/CSS编程注意事项
-1. NativeScript demo
+1. [ ] NativeScript demo
 1. NativeScript 运行机制分析、总结
 1. Angular 2 demo
 1. Angular 2 功能集合
